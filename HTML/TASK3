@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ladies Bag Store</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .card img {
+            max-height: 400px;
+            object-fit: cover;
+        }
+
+        .card-title {
+            min-height: 60px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 align="center">Ladies Bag Store</h1>
+    <!-- Product Grid -->
+    <div class="container my-5">
+        <div class="row">
+            <!-- Product 1 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTN3QSiWkgZvYJiVsC77ld7QPzFaHKsI9-dPcuk6bmO_z1UMH2ssuu9KsAnPVBrBVdQ9EcvCOj0YN9JuGvPK8MiPsbKyQkJRuxd_HdNW-sxerO_Xuwivy3Ptkg&usqp=CAE"
+                        class="card-img-top" alt="Bag 1">
+                    <div class="card-body">
+                        <h5 class="card-title">Stylish Handbag</h5>
+                        <p class="card-text">₹372.00</p>
+                        <a href="http://www.flipkart.com/like-style-women-black-handbag/p/itmf614e2ddba055?pid=HMBG6ZDYBVTS7CMK&lid=LSTHMBG6ZDYBVTS7CMKOSMGHH&marketplace=FLIPKART&cmpid=content_hand-messenger-bag_8965229628_gmc"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Product 2 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSFP4J3q9wWj9b8XWYMk934z-2fDrdQO2PDKfqiMhHP2Bu1w2sXspp2f2oKmmAlckssX7aNY8EBEvbMTgQTzX7p8KL540XnUteadbpj4HYt1DoiD43F1xrE&usqp=CAE"
+                        class="card-img-top" alt="Bag 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Elegant Tote Bag</h5>
+                        <p class="card-text">₹779.00</p>
+                        <a href="http://www.myntra.com/Handbags/STYBUZZ/STYBUZZ-Peach-Coloured-Floral-Textured-Oversized-Shopper-Tote-Bag/16987032/buy"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Product 3 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYiLMsKEVKIHpCCIYAhbHv_KndDwj30SCbdl-BSpm8fxp6oXvKghIyKe8BtSzOdf-P7riTaEgRFOPm7GeMa4qc3k-TavgJjK33560uxEw&usqp=CAE"
+                        class="card-img-top" alt="Bag 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Leather Crossbody</h5>
+                        <p class="card-text">₹649.00</p>
+                        <a href="https://www.tatacliq.com/leather-world-tan-solid-medium-crossbody-bag/p-mp000000020276468"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Product 4 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTjfcOsb1VGyLitsfAyCcfUTbhTkW67QDykWg3TlnwwfU2BIDmq1x4xDJ8pkBHttZBNTVkn1A-gbo7t5NCc6_MhHLSPv240Myk5URsU12J5sS6PqtJoVGNcGg&usqp=CAE"
+                        class="card-img-top" alt="Bag 4">
+                    <div class="card-body">
+                        <h5 class="card-title">Casual Shoulder Bag</h5>
+                        <p class="card-text">₹1,450.00</p>
+                        <a href="http://www.flipkart.com/cleto-women-white-shoulder-bag/p/itmcdd6c5cd475d1?pid=HMBGZZ8YBKHDHYNK&lid=LSTHMBGZZ8YBKHDHYNKDURCZ6&marketplace=FLIPKART&cmpid=content_hand-messenger-bag_8965229628_gmc"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Product 5 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRHHohn4ohIsIjZFw2c2-gEvqSoSTrLgqgkQ7DzRITNLKRr8J8k8J3-Z4ee_WmFN_nbnegYA4wzal_EBIlAb9Ns1tbDoaEKbfbktGUVGAgQ&usqp=CAE"
+                        class="card-img-top" alt="Bag 5">
+                    <div class="card-body">
+                        <h5 class="card-title">Vintage Bag</h5>
+                        <p class="card-text">₹1,499.00</p>
+                        <a href="https://fashionnsio.com/products/vintage-underarm-shoulder-bags?variant=46500172693780&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopdSl0-GhbbJs5tlxPWBjLdMcsOLEtrwVn9l036C61LxvgIf5P8KEc&com_cvv=d30042528f072ba8a22b19c81250437cd47a2f30330f0ed03551c4efdaf3409e"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Product 6 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTG90I8BsipviEYDvdINa2hjS28jWhjGyrS357s6JhNj2fLQhIOR3Vfrbfbe3Kfig8x1srhMWa6CjKj6UByDGzm79dBDsRnoX-rMEK8m06gpEkGYrnD1kcWZw&usqp=CAE"
+                        class="card-img-top" alt="Bag 6">
+                    <div class="card-body">
+                        <h5 class="card-title">Mini Satchel</h5>
+                        <p class="card-text">₹1,248.00</p>
+                        <a href="http://www.myntra.com/Handbags/Lino+Perros/Lino-Perros-Structured-Satchel-with-Quilted-Detail/24435810/buy"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Product 7 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQS47sjShjdh1u-7UJmsw5KhVfopWkJv9Ow35yWSQz903cM1Qyy8OCULUEqxI3oTaykuBsZYoGII6XdT7J38SDzT9HdV6qIAlDHMzq-oXOLiMR_4ns6ylUjpw&usqp=CAE"
+                        class="card-img-top" alt="Bag 7">
+                    <div class="card-body">
+                        <h5 class="card-title">Fashionable Clutch</h5>
+                        <p class="card-text">₹1,301.00</p>
+                        <a href="https://www.google.com/url?url=https://www.ajio.com/crusset-women-embellished-clutch-with-snap-button-closure/p/700398333_white%3Fsrsltid%3DAfmBOooYt0qzK71spL19RhaWj6JxzO7OvK2mJ-ExUbYgdhuEYa8IvHT9kP0%23gmf&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwiI3af6hY6JAxX6Z_UHHQlBLSMQguUECIMK&usg=AOvVaw3GhGD0HvYDFwetP6eh1tza"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Product 8 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRn8IKJzBwsTFY6SS8FqmoJfbSfhARfQoUBVna-HceCa8VLyKpakUoAHGZuY1h0upBmXpvSHa4t66Agi5ATLYvWzlj8yyPaBMkDyfINdtY-a_bJ-rXJ2383jQ&usqp=CAE"
+                        class="card-img-top" alt="Bag 8">
+                    <div class="card-body">
+                        <h5 class="card-title">Designer Handbag</h5>
+                        <p class="card-text">₹1229.00</p>
+                        <a href="http://www.myntra.com/Handbags/WOMEN+MARKS/WOMEN-MARKS-Textured-Structured-Handheld-Bag/23686270/buy"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Product 9 -->
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQe5QP8YbbbvhzCozJiQnngwsUgI3QMC1s3mD9QyXiU-47bKtGI3vbuZT3uGSn_NUuh-k6zJiZqcwW2aNtm6ExL88yGrp5swRUIbGA_ouOWN4b5wFsIHKnT0Q&usqp=CAE"
+                        class="card-img-top" alt="Bag 9">
+                    <div class="card-body">
+                        <h5 class="card-title">Classic Leather Bag</h5>
+                        <p class="card-text">₹1200.00</p>
+                        <a href="https://www.google.com/url?url=https://www.montexoo.in/products/classic-leather-messenger-briefcase-bag%3Fvariant%3D42411650842877%26currency%3DINR%26utm_medium%3Dproduct_sync%26utm_source%3Dgoogle%26utm_content%3Dsag_organic%26utm_campaign%3Dsag_organic%26srsltid%3DAfmBOorVs7RtrA7omEJqLpNEOsUz2a2J1tQ_LNoldtNUKOXf9S4o9uzl_rY&rct=j&q=&esrc=s&opi=95576897&sa=U&ved=0ahUKEwje_ffShY6JAxWlja8BHUODKS8QgOUECNcL&usg=AOvVaw18kGk6nHCnLmjzPJNSCrdY"
+                            class="btn btn-primary">BUY NOW</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
